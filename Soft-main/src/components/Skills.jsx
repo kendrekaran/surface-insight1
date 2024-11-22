@@ -71,8 +71,8 @@ export default function Skills() {
           </p>
           <div className="flex gap-4">
             {/* Standard button */}
-            <button className="bg-blue-500 text-white py-2 px-4 rounded">LEARN MORE</button>
-            <button className="border border-blue-500 text-blue-500 py-2 px-4 rounded flex items-center gap-2">
+            <button className="bg-red-500 text-white py-2 px-4 rounded">LEARN MORE</button>
+            <button className="border border-red-500 text-red-500 py-2 px-4 rounded flex items-center gap-2">
               <FaPlay className="text-xl" /> {/* Play Icon */}
               Watch Video
             </button>
